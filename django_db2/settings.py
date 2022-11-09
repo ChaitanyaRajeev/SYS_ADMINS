@@ -85,8 +85,8 @@ DATABASES = {
 	'default': {
 		'ENGINE': 'django.db.backends.oracle',
 		'NAME': 'ORCL',
-		'USER': 'mis531groupS2Q',
-		'PASSWORD': 'U:[:6vW1qu^P]fC',
+		'USER': 'mis....',
+		'PASSWORD': 'abc',
 		'HOST': 'navydb.artg.arizona.edu',
 		'PORT': '1521',
 	}
